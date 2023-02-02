@@ -19,6 +19,7 @@
     "env": "^0.0.2",
     "ethereum-waffle": "^3.4.4",
     "ethers": "^5.7.2",
+    "gitignore": "^0.7.0",
     "hardhat": "^2.12.5"
   },
   "devDependencies": {
